@@ -11,3 +11,10 @@ Alt + ` => change same type of windows between workspaces
 - snap list
 - du -shc folderName
 - du -sh *
+
+
+tmux convert vertical to horizontal and the other way around
+```sh
+c-b space
+c-a space
+```
